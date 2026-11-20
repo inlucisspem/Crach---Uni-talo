@@ -1,0 +1,57 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://online.uniitalo.com.br/v/eyJyYSI6IjMyODk3NCIsIm4iOiJQUklTQ0lMQSBORVJZIERFIEFMTUVJREEgSkVTVVMiLCJjIjoiVMOJQ05JQ08gRU0gRU5GRVJNQUdFTSBBVVggLSBURUMiLCJwIjoiMjYuMiIsImEiOjEsInMiOiJhdGl2byIsInN0IjoiTWF0cmljdWxhZG8gQ3Vyc28gTm9ybWFsIiwidiI6IjMxLzEyLzIwMjYiLCJleHAiOjE3OTUxODc3MDV9.Kv27le7fJEnMcoYmFeUBDJ3ttEahphLPsR7TOYRaEvE
+Subject: =?utf-8?Q?Valida=C3=A7=C3=A3o=20=E2=80=94=20Carteira=20do=20Aluno?=
+Date: Fri, 20 Nov 2026 15:15:31 GMT
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--kCqXNSbdsldO7mgInxfcfiPmgT13fWd6DRsc4zzsp9----"
+
+
+------MultipartBoundary--kCqXNSbdsldO7mgInxfcfiPmgT13fWd6DRsc4zzsp9----
+Content-Type: text/html
+Content-ID: <frame-D09D28C09E353FED94B5B950CD050823@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://online.uniitalo.com.br/v/eyJyYSI6IjMyODk3NCIsIm4iOiJQUklTQ0lMQSBORVJZIERFIEFMTUVJREEgSkVTVVMiLCJjIjoiVMOJQ05JQ08gRU0gRU5GRVJNQUdFTSBBVVggLSBURUMiLCJwIjoiMjYuMiIsImEiOjEsInMiOiJhdGl2byIsInN0IjoiTWF0cmljdWxhZG8gQ3Vyc28gTm9ybWFsIiwidiI6IjMxLzEyLzIwMjYiLCJleHAiOjE3OTUxODc3MDV9.Kv27le7fJEnMcoYmFeUBDJ3ttEahphLPsR7TOYRaEvE
+
+<!DOCTYPE html><html lang="pt-BR"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-89fe5ba0-9795-4b97-a266-fa8355930472@mhtml.blink" />
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow"><title>Validação — Carteira do Aluno</title>
+</head><body>
+<main class="card">
+  <div class="badge"><span class="dot"></span><h1>VÁLIDO</h1></div>
+  <p class="sub">Vínculo ativo na UNI ITALO</p>
+  <dl><div class="row"><dt>Nome</dt><dd>PRISCILA NERY DE ALMEIDA JESUS</dd></div><div class="row"><dt>Matrícula</dt><dd>328974</dd></div><div class="row"><dt>Curso</dt><dd>TÉCNICO EM ENFERMAGEM AUX - TEC</dd></div><div class="row"><dt>Período letivo</dt><dd>26.2</dd></div><div class="row"><dt>Vínculo até</dt><dd>31/12/2026</dd></div><div class="row"><dt>Situação</dt><dd>Matriculado Curso Normal</dd></div></dl>
+  <p class="foot">Confira a foto na tela do aluno com a pessoa à sua frente.<br>Código de uso único, válido por 90 segundos.<br>UNI ITALO — Gestão de TI</p>
+</main></body></html>
+------MultipartBoundary--kCqXNSbdsldO7mgInxfcfiPmgT13fWd6DRsc4zzsp9----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-89fe5ba0-9795-4b97-a266-fa8355930472@mhtml.blink
+
+@charset "utf-8";
+
+* { box-sizing: border-box; }
+
+body { margin: 0px; background: rgb(16, 20, 20); color: rgb(243, 246, 245); font: 15px / 1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; display: flex; align-items: center; justify-content: center; min-height: 100vh; padding: 20px; }
+
+.card { width: 100%; max-width: 400px; background: rgb(24, 29, 28); border-radius: 20px; padding: 28px 24px; box-shadow: rgba(0, 0, 0, 0.4) 0px 20px 50px; }
+
+.badge { display: flex; align-items: center; gap: 12px; margin-bottom: 6px; }
+
+.dot { width: 14px; height: 14px; border-radius: 50%; background: rgb(15, 157, 110); flex: 0 0 auto; box-shadow: rgba(15, 157, 110, 0.133) 0px 0px 0px 5px; }
+
+h1 { margin: 0px; font-size: 24px; font-weight: 800; letter-spacing: 0.4px; color: rgb(15, 157, 110); }
+
+.sub { margin: 0px 0px 22px; color: rgb(140, 152, 149); font-size: 13px; }
+
+dl { margin: 0px; border-top: 1px solid rgb(42, 49, 48); }
+
+.row { display: flex; justify-content: space-between; gap: 16px; padding: 12px 0px; border-bottom: 1px solid rgb(42, 49, 48); }
+
+dt { color: rgb(140, 152, 149); font-size: 12px; text-transform: uppercase; letter-spacing: 0.6px; }
+
+dd { margin: 0px; font-weight: 650; text-align: right; }
+
+.foot { margin: 20px 0px 0px; color: rgb(111, 123, 121); font-size: 11px; text-align: center; line-height: 1.6; }
+------MultipartBoundary--kCqXNSbdsldO7mgInxfcfiPmgT13fWd6DRsc4zzsp9------
